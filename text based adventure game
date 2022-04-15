@@ -1,0 +1,7 @@
+//Draw a circle on the tope right hand corner, radios of 50
+//Draw rectangle in the middle of the canvice to pressent food, hight 20, width 30
+//To move forward press F, it will move a distence of 20 pixcels 
+//To move down press D, it will move a distance of 20 pixcels 
+//To move backwrds press B, it will move a distance of 20 pixcels 
+//To move up press U, it will move a distance of 20 pixcels
+//keep moving towards the middle to eat the food
